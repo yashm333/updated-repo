@@ -1,0 +1,11 @@
+#main{
+    border-color: aquamarine;
+    border-style: solid;
+    border-width:2px ;
+}
+
+
+#container{
+    display:flex;
+
+}
