@@ -5,7 +5,17 @@
 }
 
 
-#container{
-    display:flex;
 
+@media (min-width:600px) {
+    #container {
+        display: flex;
+    }
+
+    #main {
+        width:70%;
+     }
+
+    #sidebar {
+        width:30%;
+    }
 }
