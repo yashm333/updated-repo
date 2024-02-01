@@ -15,6 +15,10 @@ h1, h2, ul, li {
 
 @media (min-width: 600px) {
     #container {
+        border-color: aquamarine;
+        border-style: solid;
+        border-width: 2px;
+        font-family: 'Playfair Display', serif;
         display: flex;
     }
 
